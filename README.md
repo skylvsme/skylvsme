@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+```json
+Maksim {
+  "job":      "Software Engineer",
+  "country":  "United States",
+  "city":     "New York City",
+  "stack":    ["Java", "Golang", "Spring Boot", "Cloud Tech", "Databases", "..."],
+  "interest": ["♟️ Chess", "🤖 Robotics", "✈️ Aviation", "..."],
+}
+```
+
 <!--
 **skylvsme/skylvsme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
